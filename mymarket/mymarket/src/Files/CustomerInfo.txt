@@ -1,0 +1,2 @@
+alex damos user1 password1
+vasw zerdali user2 password2
